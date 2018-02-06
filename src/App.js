@@ -20,14 +20,13 @@ class App extends Component {
           <p>Route 1</p>
         </Link>
 
-        <Link to="/2">
+        <Link to="/Route2">
           <p>Route 2</p>
         </Link>
 
-        <Link to="/3">
+        <Link to="/Route3">
           <p>Route 3</p>
         </Link>
-
         {routes}
       </div>
     );
